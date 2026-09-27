@@ -13,7 +13,7 @@ I'm a developer who loves **automating annoying tasks**, building reliable **CI/
 
 ### 🚧 Currently Working On
 
-* My own DMS (Document Management System)
+* New DevOps projects
 
 ### 📫 How to Reach Me
 
